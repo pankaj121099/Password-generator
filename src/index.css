@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+   background-color: hwb(174 16% 23%);  
+  /* background-image: url('https://img.freepik.com/free-vector/background-abstract-secure-technology_23-2148326521.jpg?size=626&ext=jpg&ga=GA1.1.699180061.1704899985&semt=ais'); 
+  /* background-image: "images 3 - Copy.jpg"; */
+  /* background-repeat: no-repeat;
+background-size:cover;  */
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',  
+  monospace;
+}
+
+
+
